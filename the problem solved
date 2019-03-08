@@ -1,0 +1,9 @@
+first cuda version:
+  have to make sure the version of system installed cuda, nvcc, torch.version.cuda, are same. unless the building of cuda codes will meet some
+  problem. even the building is completed, during the using wiff occur some symbol not defined.
+missing _mask:
+  happend because the coco. have to place the coco code into the data folder. and make it.
+the torch version:
+  some code not support torch 1.0. the error occured: torch.utils.ffi is deprecated. How do I use cpp extensions instead.
+  the solvment is using faster rcnn code of torch 1.0 banch in authors repositorie.
+  
