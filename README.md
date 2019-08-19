@@ -1,3 +1,4 @@
+This code comes from the author of the paper: ["Graph R-CNN for Scene Graph Generation"](https://arxiv.org/pdf/1808.00191.pdf). It is just used here for my master thesis. The author has also already uploaded their official code finally, please check there own repostory(https://github.com/jwyang/graph-rcnn.pytorch)
 # Graph R-CNN
 
 ### Introduction
